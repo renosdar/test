@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "123Net",
-    "currentPage": "123net.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3662,7 +3662,7 @@
         }
       ]
     },
-    "123net.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Κατασκευή ιστοσελίδων και eshop ",
